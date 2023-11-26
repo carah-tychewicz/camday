@@ -52,7 +52,7 @@ function App() {
             <li>after one hour, stir pot, return to boil and reduce for about 5 minutes, strring the pot every 1 minute.</li>
             <li>remove from heat and allow it to cool for a few minutes.</li>
           </ol>
-          <p>There's a lot of prep work that goes into it, but once that's done you mostly get to sit back for an hour while it cooks itself. Good luck and enjoy! Text me if you have questions.</p>
+          <p>There's a lot of prep work that goes into it, but once that's done you mostly get to sit back for an hour while it cooks itself. I hope you take this recipe and really build off of it to make it your own. Good luck and enjoy! Text me if you have questions.</p>
         </div> 
         <img className='col-4' src="https://res.cloudinary.com/drz0iulpo/image/upload/v1700976021/tayne-nude-tayne_locro2.gif" />
       </div>
