@@ -4,5 +4,6 @@
 .content-bg {
   color: gainsboro;
   border-radius: 1rem;
-  background: rgba(99, 77, 153, 0.7)
+  background: rgba(99, 77, 153, 0.7);
+  padding-bottom: 1rem;
 }

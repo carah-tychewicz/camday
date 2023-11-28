@@ -6,6 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: url('https://res.cloudinary.com/drz0iulpo/image/upload/v1701144367/tester-opossum_fav5jz.gif');
+  padding-top: 1rem;
 }
 
 code {
