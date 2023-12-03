@@ -7,3 +7,7 @@
   background: rgba(99, 77, 153, 0.7);
   padding-bottom: 1rem;
 }
+
+.container div {
+  margin-bottom: 1rem;
+}

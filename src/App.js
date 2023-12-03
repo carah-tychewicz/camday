@@ -7,9 +7,9 @@ function App() {
     <div className="container text-center content-bg col-9">
       <h1>HAPPY BIRTHDAY CAM!!!</h1>
       <h3>We got you possum memes!</h3>
-      <video autoplay>
-        <source src="https://res.cloudinary.com/drz0iulpo/video/upload/v1701149932/camday/camday_video.mp4" type='video/mp4' />
-      </video>
+      <iframe width="892" height="428" 
+        src="https://www.youtube.com/embed/oz0Y8kS9sus" title="no fighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+      </iframe>
       <div className='row'>
         <div className='col'>
           <img className="img-fluid" src={"https://res.cloudinary.com/drz0iulpo/image/upload/v1701149933/camday/camday_00.png"} />
