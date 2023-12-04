@@ -5,15 +5,24 @@ import './App.css';
 function App() {
   return (
     <div className="container text-center content-bg col-9">
+      <h1>HAPPY BIRTHDAY CAM!!!</h1>
+      <div className='message'>
+        <h2>You're gonna notice your body is going through changes.</h2>
+        <h2>Things droop lower than they used to.</h2>
+        <h2>Mind how you sit down.</h2>
+      </div>
       <h1>CLICK PLAY FOR BIRTHDAY SONG</h1>
       <div className='row video'>
         <iframe width="853" height="480" 
           src="https://www.youtube.com/embed/BpgBhUE0-8U" title="Metalocalypse: Dethklok | Birthday Dethday  | Adult Swim" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
         </iframe>
       </div>
-      <h1>HAPPY BIRTHDAY CAM!!!</h1>
-      <h3>We got you possum memes!</h3>
-      <p>You're gonna notice your body is going through changes. Things droop lower than they used to. Mind how you sit down.</p>
+      <h1>CLICK FOR GIFTS</h1>
+      <div className='row'>
+        <div className='col'>
+          <img className="img-fluid pinata" src={"https://res.cloudinary.com/drz0iulpo/image/upload/v1701149933/camday/camday_pinata.png"} />
+        </div>
+      </div>
       <div className='row'>
         <iframe width="892" height="428" 
           src="https://www.youtube.com/embed/oz0Y8kS9sus" title="no fighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
